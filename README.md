@@ -14,6 +14,6 @@ Real time twitter tweets scrape using tweepy and predicting the sentiments using
 
 #### Note
 - You can run from Jupyter notebook code/Scraping and performing sentiment analysis of tweets in real time .ipynb
-- Down weight and tokenizer from link provided in weights folder
+- Download weight and tokenizer from link provided in weights folder
 - And to plot in real time run plot_real_time_graph.py simultaneously with notebook
 - And also provide your own key and tokens of your twitter developer account.( The give key will not work beacuse I have regerated it already)
