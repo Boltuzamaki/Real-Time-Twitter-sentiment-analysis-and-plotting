@@ -8,6 +8,9 @@ Real time twitter tweets scrape using tweepy and predicting the sentiments using
 
 [Youtube video Link](https://www.youtube.com/watch?v=jEunngbpCF4)
 
+## In short 
+<img src="https://github.com/Boltuzamaki/Real-Time-Twitter-sentiment-analysis-and-plotting/blob/master/image/sentiments.gif" width="600" height="400" />
+
 <img src="https://github.com/Boltuzamaki/Real-Time-Twitter-sentiment-analysis-and-plotting/blob/master/image/Screenshot%20(6616).png"  width="600" height="400" />
 
 
